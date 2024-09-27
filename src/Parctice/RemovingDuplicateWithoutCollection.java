@@ -22,5 +22,6 @@ public static void main(String[] args) {
 	for(int elem:unique) {
 		System.out.println(elem);
 	}
+	System.out.println("Th");
 }
 }
